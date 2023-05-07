@@ -1,2 +1,2 @@
-# thinkful-portfolio
+#Pete Thinkful Portfolio
 Thinkful Web Portfolio Project
