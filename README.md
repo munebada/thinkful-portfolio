@@ -1,2 +1,3 @@
-#Thinkful Portfolio
-Thinkful Web Portfolio Project
+# Thinkful Pete Portfolio
+
+Thinkful Web Project
